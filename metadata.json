@@ -1,0 +1,15 @@
+{
+  "name": "rkulkarni-ssh",
+  "version": "0.1.0",
+  "author": "Ravindra Kulkarni",
+  "summary": "This module will manage ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/rkulkarni2018/puppet-sssh.git",
+  "project_page": "https://github.com/rkulkarni2018/puppet-sssh",
+  "issues_url": "https://github.com/rkulkarni2018/puppet-sssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
